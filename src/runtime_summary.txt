@@ -1,0 +1,4 @@
+Application runtime summary
+
+dllhost.exe: 0.0 hours
+svchost.exe: 0.21 hours

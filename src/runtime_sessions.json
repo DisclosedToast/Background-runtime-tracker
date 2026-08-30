@@ -1,0 +1,68 @@
+[
+  {
+    "application": "dllhost.exe",
+    "opened": "2026-08-30T19:08:13",
+    "closed": "2026-08-30T19:08:19",
+    "runtime_hours": 0.0
+  },
+  {
+    "application": "dllhost.exe",
+    "opened": "2026-08-30T19:08:14",
+    "closed": "2026-08-30T19:08:21",
+    "runtime_hours": 0.0
+  },
+  {
+    "application": "dllhost.exe",
+    "opened": "2026-08-30T19:08:15",
+    "closed": "2026-08-30T19:08:21",
+    "runtime_hours": 0.0
+  },
+  {
+    "application": "dllhost.exe",
+    "opened": "2026-08-30T19:08:14",
+    "closed": "2026-08-30T19:08:27",
+    "runtime_hours": 0.0
+  },
+  {
+    "application": "svchost.exe",
+    "opened": "2026-08-30T18:56:30",
+    "closed": "2026-08-30T19:08:29",
+    "runtime_hours": 0.2
+  },
+  {
+    "application": "svchost.exe",
+    "opened": "2026-08-30T19:08:04",
+    "closed": "2026-08-30T19:08:35",
+    "runtime_hours": 0.01
+  },
+  {
+    "application": "dllhost.exe",
+    "opened": "2026-08-30T19:08:45",
+    "closed": "2026-08-30T19:08:52",
+    "runtime_hours": 0.0
+  },
+  {
+    "application": "WmiPrvSE.exe",
+    "opened": "2026-08-30T19:08:00",
+    "closed": "2026-08-30T19:09:32",
+    "runtime_hours": 0.03
+  },
+  {
+    "application": "Notepad.exe",
+    "opened": "2026-08-30T19:08:44",
+    "closed": "2026-08-30T19:09:44",
+    "runtime_hours": 0.02
+  },
+  {
+    "application": "dllhost.exe",
+    "opened": "2026-08-30T19:09:44",
+    "closed": "2026-08-30T19:09:50",
+    "runtime_hours": 0.0
+  },
+  {
+    "application": "DataExchangeHost.exe",
+    "opened": "2026-08-30T19:09:42",
+    "closed": "2026-08-30T19:10:14",
+    "runtime_hours": 0.01
+  }
+]
